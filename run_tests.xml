@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Tests_Suite" verbose="1" >
+
+    <listeners>
+        <listener class-name="ExtentReportsListener"></listener>
+    </listeners>
+    <test name="login_test">
+        <classes>
+            <class name="ExtendReportsClass"/>
+            <class name="LoginTest"/>
+            <class name="OpenAccountTest"></class>
+            <class name="TransactionsTest"></class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-05-02T12:40:39.121580200Z</date>
+  <millis>1651495239121</millis>
+  <nanos>580200</nanos>
+  <sequence>0</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>BaseTest</class>
+  <method>preparations</method>
+  <thread>1</thread>
+  <message>now logs toC:\Users\noam\Desktop\javadev\BankingTests\reports and logs\logs.log</message>
+</record>
+<record>
+  <date>2022-05-02T12:40:39.134580Z</date>
+  <millis>1651495239134</millis>
+  <nanos>580000</nanos>
+  <sequence>1</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>BaseTest</class>
+  <method>preparations</method>
+  <thread>1</thread>
+  <message>starting suite</message>
+</record>
+<record>
+  <date>2022-05-02T12:40:39.136580100Z</date>
+  <millis>1651495239136</millis>
+  <nanos>580100</nanos>
+  <sequence>2</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>BaseTest</class>
+  <method>preparations</method>
+  <thread>1</thread>
+  <message>config file loaded</message>
+</record>
+<record>
+  <date>2022-05-02T12:40:41.861579900Z</date>
+  <millis>1651495241861</millis>
+  <nanos>579900</nanos>
+  <sequence>5</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>BaseTest</class>
+  <method>preparations</method>
+  <thread>1</thread>
+  <message>chrome started</message>
+</record>
+<record>
+  <date>2022-05-02T12:40:43.864167100Z</date>
+  <millis>1651495243864</millis>
+  <nanos>167100</nanos>
+  <sequence>6</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>BaseTest</class>
+  <method>preparations</method>
+  <thread>1</thread>
+  <message>navigated to to : http://www.way2automation.com/angularjs-protractor/banking/#/login</message>
+</record>
+<record>
+  <date>2022-05-02T12:40:44.324931600Z</date>
+  <millis>1651495244324</millis>
+  <nanos>931600</nanos>
+  <sequence>7</sequence>
+  <logger>BaseTest</logger>
+  <level>INFO</level>
+  <class>ExtendReportsClass</class>
+  <method>report_settings</method>
+  <thread>1</thread>
+  <message>extent reporter set up done</message>
+</record>
+</log>
