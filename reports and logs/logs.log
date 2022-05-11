@@ -2,9 +2,9 @@
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2022-05-02T12:40:39.121580200Z</date>
-  <millis>1651495239121</millis>
-  <nanos>580200</nanos>
+  <date>2022-05-05T14:57:04.220308100Z</date>
+  <millis>1651762624220</millis>
+  <nanos>308100</nanos>
   <sequence>0</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
@@ -14,9 +14,9 @@
   <message>now logs toC:\Users\noam\Desktop\javadev\BankingTests\reports and logs\logs.log</message>
 </record>
 <record>
-  <date>2022-05-02T12:40:39.134580Z</date>
-  <millis>1651495239134</millis>
-  <nanos>580000</nanos>
+  <date>2022-05-05T14:57:04.234308800Z</date>
+  <millis>1651762624234</millis>
+  <nanos>308800</nanos>
   <sequence>1</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
@@ -26,9 +26,9 @@
   <message>starting suite</message>
 </record>
 <record>
-  <date>2022-05-02T12:40:39.136580100Z</date>
-  <millis>1651495239136</millis>
-  <nanos>580100</nanos>
+  <date>2022-05-05T14:57:04.236308600Z</date>
+  <millis>1651762624236</millis>
+  <nanos>308600</nanos>
   <sequence>2</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
@@ -38,9 +38,9 @@
   <message>config file loaded</message>
 </record>
 <record>
-  <date>2022-05-02T12:40:41.861579900Z</date>
-  <millis>1651495241861</millis>
-  <nanos>579900</nanos>
+  <date>2022-05-05T14:57:10.758112600Z</date>
+  <millis>1651762630758</millis>
+  <nanos>112600</nanos>
   <sequence>5</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
@@ -50,9 +50,9 @@
   <message>chrome started</message>
 </record>
 <record>
-  <date>2022-05-02T12:40:43.864167100Z</date>
-  <millis>1651495243864</millis>
-  <nanos>167100</nanos>
+  <date>2022-05-05T14:57:13.385729400Z</date>
+  <millis>1651762633385</millis>
+  <nanos>729400</nanos>
   <sequence>6</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
@@ -62,9 +62,9 @@
   <message>navigated to to : http://www.way2automation.com/angularjs-protractor/banking/#/login</message>
 </record>
 <record>
-  <date>2022-05-02T12:40:44.324931600Z</date>
-  <millis>1651495244324</millis>
-  <nanos>931600</nanos>
+  <date>2022-05-05T14:57:13.801975400Z</date>
+  <millis>1651762633801</millis>
+  <nanos>975400</nanos>
   <sequence>7</sequence>
   <logger>BaseTest</logger>
   <level>INFO</level>
