@@ -10,7 +10,7 @@ some configurations be changed by changing config.properties file such as which 
 Test are done in test driven attitude the test uses the bank_customers.xlsx file which holds details about customers and uses it on the site.
 
 # How to use the project
-To use the project downnload the files in java IDE such as InteliJ or Eclipse and right click the run_tests.xml file and click on run run.tests.xml,
+To use the project use git clone to download the files in java IDE such as InteliJ or Eclipse and right click the run_tests.xml file and click on run run.tests.xml,
 than you can go to logs and reports folder and find detaild report on the test in nice graphics window in extent.html file.
 
 # Key technologies used in this project
